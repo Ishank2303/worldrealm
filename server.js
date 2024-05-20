@@ -20,8 +20,7 @@ var options = {
   url: 'https://twinword-word-graph-dictionary.p.rapidapi.com/definition/',
   params: {entry: req.query.entry},
   headers: {
-    'X-RapidAPI-Key': '3dc0e78068mshf6a6c2be78f257cp176981jsn7ac2c27874ea',
-    'X-RapidAPI-Host': 'twinword-word-graph-dictionary.p.rapidapi.com'
+    // u have to add ur api key here
   }
 };
 
